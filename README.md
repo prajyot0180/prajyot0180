@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prajyot Pimpale
-- 👀 I’m interested as Developer
+- 👀 I’m interested as Java Full Stack Developer
 - 🌱 I’m currently learning various technologies
 - 💞️ I’m looking to collaborate
 
